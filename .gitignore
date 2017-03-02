@@ -1,0 +1,6 @@
+*.tmp
+*.tmp.c
+*.dep
+/Debug/
+/settings/
+

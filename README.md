@@ -1,3 +1,4 @@
+This repository doesn't maintain, just used to backup
 # wsn_msp430andSI4463
 this project is used to wsn. The mcu is msp430 and wireless chip si4463
 
